@@ -18,6 +18,8 @@
         <a href="/img/4.jpg" target="_blank"><img src="/img/4.jpg"></a>
         <a href="/img/5.jpg" target="_blank"><img src="/img/5.jpg"></a>
     </div>
+    <h2>{{H2}}</h2>    
+<div class="gallery-lesson2">{{CONTENT}}</div>
 </body>
 
 </html>
